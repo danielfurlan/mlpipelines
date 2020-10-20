@@ -16,10 +16,10 @@ call the BinaryClass(dataframe,target)
 
 Run the algorithm:
 
+*res.train_models(False,1)*
+
 over = False, for overfitting or not
 n = 1, the model number to get and save the results for further comparison
-
-*res.train_models(False,1)*
 
 Make your data analyses, change them and rerun it:
 
