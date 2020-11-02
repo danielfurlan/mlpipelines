@@ -10,6 +10,21 @@ Although not with fancy visualization, it may help the users with low coding exp
 
 You can get your NaN values and transform then with the class *prepa*:
 
+*pr = prepa(data)*
+
+call the *col_nan_errors(mode)* to transforme your NaN columns with the *m_max* or *m_min* value of each colum
+
+<img src="assets/1prepa.png" width="900" height="500" >
+
+Select columns to be categorized and generate new features:
+
+<img src="assets/categ.png" width="1300" >
+
+Here we are selecting columns 0 up to 9 plus the columns "Loser"
+
+<img src="assets/categ3.png" width="900">
+
+
 <img src="assets/bc1.png" width="800" >
 
 Libraries to be used running your data analyses algorithms with a more user friendly interface.
@@ -22,7 +37,7 @@ Import the library:
 
 call the BinaryClass(dataframe,target)
 
-<img src="assets/categ.png" width="1300" >
+
 
 *res = bc.BinaryClass(df,"Labels")*
 
@@ -39,13 +54,13 @@ Make your data analyses, change them and rerun it:
 
 <img src="assets/bc2.png" width="1300"  >
 
-<img src="assets/1prepa.png" width="900" height="500" >
+
 <img src="assets/auc.png" width="900">
 <img src="assets/gbm&dnn.png" width="900">
 <img src="assets/categ2.png" width="900" >
 
 <img src="assets/categ4.png" width="900">
-<img src="assets/categ3.png" width="900">
+
 <img src="assets/dnn1.png" width="900">
 
 <img src="assets/no_categ.png" width="900">
