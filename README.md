@@ -10,7 +10,7 @@ Although not with fancy visualization, it may help the users with low coding exp
 
 You can get your NaN values and transform then with the class *prepa*:
 
-<!-- <img src=".github/Detectron2-Logo-Horz.svg" width="300" > -->
+<img src=".assets/bc1.png" width="300" >
 
 Libraries to be used running your data analyses algorithms with a more user friendly interface.
 
@@ -21,6 +21,8 @@ Import the library:
 *import binclass as bc*
 
 call the BinaryClass(dataframe,target)
+
+<img src=".assets/bc1.png" width="300" >
 
 *res = bc.BinaryClass(df,"Labels")*
 
@@ -34,3 +36,5 @@ n = 1, the model number to get and save the results for further comparison
 Make your data analyses, change them and rerun it:
 
 *res.train_models(False,2)*
+
+<img src=".assets/bc1.png" width="300" >
