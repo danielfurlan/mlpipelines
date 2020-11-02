@@ -10,7 +10,7 @@ Although not with fancy visualization, it may help the users with low coding exp
 
 You can get your NaN values and transform then with the class *prepa*:
 
-<img src="assets/bc1.png" width="1000" >
+<img src="assets/bc1.png" width="900" >
 
 Libraries to be used running your data analyses algorithms with a more user friendly interface.
 
