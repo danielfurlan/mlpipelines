@@ -40,8 +40,8 @@ Make your data analyses, change them and rerun it:
 <img src="assets/bc2.png" width="1300"  >
 
 <img src="assets/1prepa.png" width="900" height="500" >
-<img src="assets/auc.png" width="900" height="500" >
-<img src="assets/gbm&dnn.png" width="900" height="500" >
+<img src="assets/auc.png" width="900">
+<img src="assets/gbm&dnn.png" width="900">
 <img src="assets/categ2.png" width="900" height="500" >
 
 <img src="assets/categ4.png" width="900" height="500" >
