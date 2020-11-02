@@ -12,9 +12,11 @@ Although not with fancy visualization, it may help the users with low coding exp
 
 You can get your NaN values and transform then with the class *prepa*:
 
-*res = pr.prepa(data)*
+*pr = prepa(df_atp)*
 
 call the *col_nan_errors(mode)* to transforme your NaN columns with the *m_max* or *m_min* value of each colum
+
+*df_atp = pr.cols_nan_errors("m_max")*
 
 <img src="assets/1prepa.png" width="900" height="500" >
 
@@ -43,6 +45,8 @@ Import the library:
 
 call the BinaryClass(dataframe,target)
 
+<img src="assets/bc1.png" width="900">
+
 *res = bc.BinaryClass(df,"Labels")*
 
 train your models and get the outputs:
@@ -57,6 +61,7 @@ Get the confusion matrix and AUC & ROC curves at the same place:
 Make your data analyses, change them and rerun it:
 
 *res.train_models(False,2)*
+
 (here we are also running a DNN algorithm, that you can choose to run or not)
 <img src="assets/dnn1.png" width="900">
 
@@ -68,12 +73,6 @@ Make your data analyses, change them and rerun it:
 
 
 <img src="assets/categ2.png" width="900" >
-
-
-
-
-
-<img src="assets/no_categ.png" width="900">
 
 
 
