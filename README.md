@@ -22,7 +22,7 @@ Import the library:
 
 call the BinaryClass(dataframe,target)
 
-<img src="assets/categ.png" width="300" >
+<img src="assets/categ.png" width="800" >
 
 *res = bc.BinaryClass(df,"Labels")*
 
@@ -37,7 +37,7 @@ Make your data analyses, change them and rerun it:
 
 *res.train_models(False,2)*
 
-<img src="assets/bc2.png" width="900" height="500" >
+<img src="assets/bc2.png" width="900"  >
 
 <img src="assets/1prepa.png" width="900" height="500" >
 <img src="assets/auc.png" width="900" height="500" >
