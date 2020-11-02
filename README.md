@@ -3,12 +3,15 @@
 This repository is to automate and facilitate your job with machine learning models!! 
 It is made within notebooks to interact with the user while exploring and doing data cleansing and getting perfomrance  of pre-built ml models (So far it's built only for Binary Classificaiton and uses 2 models: lightGBM and DNN).
 
-Although not with fancy visualization, it may help the users with low coding experience.
+Although not with a fancy visual interface for interaction, it may help the users with low coding experience.
+User input for the model parametrization is allowed through an interative process.
 
+Notebook example: 
+
+*import prepa*
+*import binclass* 
 
 # data cleansing ane feature engineering
-
-*import prepa as pr*
 
 You can get your NaN values and transform then with the class *prepa*:
 
@@ -35,17 +38,13 @@ See the results right after:
 
 # Running binary classification algorithm
 
-Libraries to be used running your data analyses algorithms with a more user friendly interface.
-
-User input for the model parametrization is allowed through an interative process.
-
-Import the library:
-
-*import binclass as bc*
-
 call the BinaryClass(dataframe,target) with your data --> if you don't specify the *outcome* column, you can input it right below:
 
 <img src="assets/bc1.png" width="900">
+
+If you didn't specify the columns/variables to train your model, don't worry!! It will let you do so selecting them!
+
+<img src="assets/bc2.png" width="1300"  >
 
 train your models and get the outputs:
 
@@ -64,14 +63,6 @@ Make your data analyses, change them and rerun it:
 <img src="assets/dnn1.png" width="900">
 
 <img src="assets/gbm&dnn.png" width="900">
-
-
-<img src="assets/bc2.png" width="1300"  >
-
-
-
-<img src="assets/categ2.png" width="900" >
-
 
 
 # Visualize SHAP values to explain your models
