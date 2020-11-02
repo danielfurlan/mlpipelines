@@ -42,20 +42,20 @@ Make your data analyses, change them and rerun it:
 <img src="assets/1prepa.png" width="900" height="500" >
 <img src="assets/auc.png" width="900">
 <img src="assets/gbm&dnn.png" width="900">
-<img src="assets/categ2.png" width="900" height="500" >
+<img src="assets/categ2.png" width="900" >
 
-<img src="assets/categ4.png" width="900" height="500" >
-<img src="assets/categ3.png" width="900" height="500" >
-<img src="assets/dnn1.png" width="900" height="500" >
+<img src="assets/categ4.png" width="900">
+<img src="assets/categ3.png" width="900">
+<img src="assets/dnn1.png" width="900">
 
-<img src="assets/no_categ.png" width="900" height="500" >
-
-
-<img src="assets/roc_curve.png" width="900" height="500" >
+<img src="assets/no_categ.png" width="900">
 
 
-<img src="assets/shap_import.png" width="900" height="500" >
+<img src="assets/roc_curve.png" width="900">
 
-<img src="assets/shap_ov.png" width="900" height="500" >
 
-<img src="assets/shap_single.png" width="900" height="500" >
+<img src="assets/shap_import.png" width="900">
+
+<img src="assets/shap_ov.png" width="900">
+
+<img src="assets/shap_single.png" width="900">
