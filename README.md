@@ -43,15 +43,13 @@ Import the library:
 
 *import binclass as bc*
 
-call the BinaryClass(dataframe,target)
+call the BinaryClass(dataframe,target) with your data --> if you don't specify the *outcome* column, you can input it right below:
 
 <img src="assets/bc1.png" width="900">
 
-*res = bc.BinaryClass(df,"Labels")*
-
 train your models and get the outputs:
 
-*res.train_models(False,1)*
+*bc.train_models(False,1)*
 
 Get the confusion matrix and AUC & ROC curves at the same place:
 
@@ -60,7 +58,7 @@ Get the confusion matrix and AUC & ROC curves at the same place:
 
 Make your data analyses, change them and rerun it:
 
-*res.train_models(False,2)*
+*bc.train_models(False,2)*
 
 (here we are also running a DNN algorithm, that you can choose to run or not)
 <img src="assets/dnn1.png" width="900">
