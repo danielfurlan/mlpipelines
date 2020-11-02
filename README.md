@@ -10,7 +10,7 @@ Although not with fancy visualization, it may help the users with low coding exp
 
 You can get your NaN values and transform then with the class *prepa*:
 
-<img src="assets/bc1.png" width="300" >
+<img src="assets/bc1.png" width="800" >
 
 Libraries to be used running your data analyses algorithms with a more user friendly interface.
 
@@ -37,4 +37,25 @@ Make your data analyses, change them and rerun it:
 
 *res.train_models(False,2)*
 
-<img src="assets/bc2.png" width="300" >
+<img src="assets/bc2.png" width="900" height="500" >
+
+<img src="assets/1prepa.png" width="900" height="500" >
+<img src="assets/auc.png" width="900" height="500" >
+<img src="assets/gbm&dnn.png" width="900" height="500" >
+<img src="assets/categ2.png" width="900" height="500" >
+
+<img src="assets/categ4.png" width="900" height="500" >
+<img src="assets/categ3.png" width="900" height="500" >
+<img src="assets/dnn1.png" width="900" height="500" >
+
+<img src="assets/no_categ.png" width="900" height="500" >
+
+
+<img src="assets/roc_curve.png" width="900" height="500" >
+
+
+<img src="assets/shap_import.png" width="900" height="500" >
+
+<img src="assets/shap_ov.png" width="900" height="500" >
+
+<img src="assets/shap_single.png" width="900" height="500" >
