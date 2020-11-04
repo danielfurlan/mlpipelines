@@ -6,7 +6,7 @@ It is made within notebooks to interact with the user while exploring and doing 
 Although not with a fancy visual interface for interaction, it may help the users with low coding experience.
 User input for the model parametrization is allowed through an interative process.
 
-Notebook example: 
+Notebook example: click [here](https://www.kaggle.com/danielfmfurlan/binclass-example)
 
 *import prepa*
 *import binclass* 
