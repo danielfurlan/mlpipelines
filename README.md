@@ -8,9 +8,6 @@ User input for the model parametrization is allowed through an interative proces
 
 Colab Notebook example: click [here](https://colab.research.google.com/drive/17lxCLGH25MlRo_imPJSvQTrZp02INm62?usp=sharing)
 
-*import prepa*
-*import binclass* 
-
 # data cleansing ane feature engineering
 
 You can get your NaN values and transform then with the class *prepa*:
